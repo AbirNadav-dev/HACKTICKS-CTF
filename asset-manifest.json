@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HACKTICKS-CTF/static/css/main.c4d3eaaa.chunk.css",
+    "main.js": "/HACKTICKS-CTF/static/js/main.58a5958b.chunk.js",
+    "main.js.map": "/HACKTICKS-CTF/static/js/main.58a5958b.chunk.js.map",
+    "runtime-main.js": "/HACKTICKS-CTF/static/js/runtime-main.a4060e7a.js",
+    "runtime-main.js.map": "/HACKTICKS-CTF/static/js/runtime-main.a4060e7a.js.map",
+    "static/js/2.2c1dbac1.chunk.js": "/HACKTICKS-CTF/static/js/2.2c1dbac1.chunk.js",
+    "static/js/2.2c1dbac1.chunk.js.map": "/HACKTICKS-CTF/static/js/2.2c1dbac1.chunk.js.map",
+    "static/js/3.449d1c2a.chunk.js": "/HACKTICKS-CTF/static/js/3.449d1c2a.chunk.js",
+    "static/js/3.449d1c2a.chunk.js.map": "/HACKTICKS-CTF/static/js/3.449d1c2a.chunk.js.map",
+    "index.html": "/HACKTICKS-CTF/index.html",
+    "static/css/main.c4d3eaaa.chunk.css.map": "/HACKTICKS-CTF/static/css/main.c4d3eaaa.chunk.css.map",
+    "static/js/2.2c1dbac1.chunk.js.LICENSE.txt": "/HACKTICKS-CTF/static/js/2.2c1dbac1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4060e7a.js",
+    "static/js/2.2c1dbac1.chunk.js",
+    "static/css/main.c4d3eaaa.chunk.css",
+    "static/js/main.58a5958b.chunk.js"
+  ]
+}
